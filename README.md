@@ -1,3 +1,6 @@
-<H1>A survillence rover with basic features and also a Hop system for climbing steps.</H1>
-![mobility](https://github.com/user-attachments/assets/6e8605bb-759f-43ed-855e-5dad44970e14)
+<H6>A survillence rover with basic features and also a Hop system for climbing steps.</H6>
+- has a hop system for climbing stairs (deosn't work properly, needs a servo with higher torque not sg90s
+- made at a hackthon and I was not really familiar with github. So updating this almost after a year in an attemt to organize my github.
+:D
+
 
