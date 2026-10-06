@@ -47,7 +47,7 @@ void setup() {
   motor2.setSpeed(Speed);
   motor3.setSpeed(Speed);
   motor4.setSpeed(Speed);
-  if(!display.begin(SSD1306_SWITCHCAPVCC, 0x3C)) { // Most common I2C address for 0.96" OLED
+  if(!display.begin(SSD1306_SWITCHCAPVCC, 0x3C)) { 
     Serial.println(F("SSD1306 allocation failed"));
     for(;;);
   }
